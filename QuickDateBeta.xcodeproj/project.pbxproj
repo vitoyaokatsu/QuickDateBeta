@@ -15,6 +15,7 @@
 		2D9F02ED255AD825005E8711 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D9F02EB255AD825005E8711 /* LaunchScreen.storyboard */; };
 		2D9F02F8255AD825005E8711 /* QuickDateBetaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D9F02F7255AD825005E8711 /* QuickDateBetaTests.swift */; };
 		2D9F0303255AD826005E8711 /* QuickDateBetaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D9F0302255AD826005E8711 /* QuickDateBetaUITests.swift */; };
+		2D9F0314255ADA7C005E8711 /* GrobalProps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D9F0313255ADA7C005E8711 /* GrobalProps.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2D9F02FE255AD826005E8711 /* QuickDateBetaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuickDateBetaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D9F0302255AD826005E8711 /* QuickDateBetaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickDateBetaUITests.swift; sourceTree = "<group>"; };
 		2D9F0304255AD826005E8711 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D9F0313255ADA7C005E8711 /* GrobalProps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrobalProps.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				2D9F02E9255AD825005E8711 /* Assets.xcassets */,
 				2D9F02EB255AD825005E8711 /* LaunchScreen.storyboard */,
 				2D9F02EE255AD825005E8711 /* Info.plist */,
+				2D9F0313255ADA7C005E8711 /* GrobalProps.swift */,
 			);
 			path = QuickDateBeta;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				2D9F02E5255AD81C005E8711 /* ViewController.swift in Sources */,
 				2D9F02E1255AD81C005E8711 /* AppDelegate.swift in Sources */,
 				2D9F02E3255AD81C005E8711 /* SceneDelegate.swift in Sources */,
+				2D9F0314255ADA7C005E8711 /* GrobalProps.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
